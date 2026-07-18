@@ -2,7 +2,8 @@
 
 A desktop GUI tool that connects to a GPS receiver over the network (e.g. your phone or tablet's GPS shared over WiFi/hotspot) and visualizes what it's tracking in real time.
 
-<img width="1156" height="755" alt="image" src="https://github.com/user-attachments/assets/f7675422-48ad-4806-9d6e-b27be1d7f352" />
+<img width="1151" height="753" alt="image" src="https://github.com/user-attachments/assets/970095c2-0656-4b09-b206-166aeea45074" />
+
 
 
 
